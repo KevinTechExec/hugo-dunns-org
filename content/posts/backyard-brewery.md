@@ -2,6 +2,10 @@
 title: "Backyard Brewery"
 date: 2020-10-18T15:40:51-05:00
 draft: false
+toc: false
+images:
+tags: 
+  - brewing
 ---
 After brewing in the driveway for years it's time for a change. After much back and
 forth I am relocating the brewery to the .... backyard.

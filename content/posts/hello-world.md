@@ -2,10 +2,11 @@
 title: "Hello World"
 date: 2020-08-24T21:02:23-05:00
 draft: false
+toc: false
+images:
+tags: 
+  - technology
 ---
-
-# Hello World
-
 As is traditional with new projects, first the Hello World. 
 
 In this case, the project is a new record of adventures. Why a record? Becasue it's 2020 and
