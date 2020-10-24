@@ -8,4 +8,4 @@ tags:
   - technology
   - development
 ---
-
+The way that I set up ZSH under WSL

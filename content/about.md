@@ -1,7 +1,7 @@
 ---
 title: "About KevinTechExec"
 date: 2020-10-18T16:36:57-05:00
-draft: true
+draft: false
 comments: false
 images:
 ---
